@@ -15,6 +15,6 @@ We will keep updating every week.
 
 
 ## :triangular_flag_on_post: Former Issues
-| Newsletter Issue | Date | Content|
+| Week | Date | Content|
 | ---------------- | ---- | ------------ |
-| #1: xxx| November 23, 2020 | [week 1: self-, semi- and unsupervised](week1/README.md)
+| Week 1 | November 23, 2020 | [week 1: self-, semi- and unsupervised](week1/README.md)
