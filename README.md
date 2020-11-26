@@ -1,7 +1,7 @@
 # :point_right: Paper Reading
 
 
-:couple: This repository is created by LJT & CHY, which contains a list of interesting & inspiring **CV** papers.
+:family: This repository is created by MCG Room 324, which contains a list of interesting & inspiring **CV** papers.
 We will keep updating every week.
 
 
