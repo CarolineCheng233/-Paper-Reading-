@@ -13,7 +13,7 @@
 
 | Title | Link | Completion |
 | ---------------- | ---- | ------------ |
-| A survey on Semi-, Self- and Unsupervised Techniques in Image Classiﬁcation | [A survey on Semi-, Self- and Unsupervised Techniques in Image Classiﬁcation ](https://arxiv.org/pdf/2002.08721.pdf) | 
+| A survey on Semi-, Self- and Unsupervised Techniques in Image Classiﬁcation | [A survey on Semi-, Self- and Unsupervised Techniques in Image Classiﬁcation ](https://arxiv.org/pdf/2002.08721.pdf) |
 
 
 ## :umbrella: WEDNESDAY
@@ -22,7 +22,7 @@
 
 | Title | Link | Completion |
 | ---------------- | ---- | ------------ |
-| A survey on Semi-, Self- and Unsupervised Techniques in Image Classiﬁcation | [A survey on Semi-, Self- and Unsupervised Techniques in Image Classiﬁcation ](https://arxiv.org/pdf/2002.08721.pdf) | 
+| A survey on Semi-, Self- and Unsupervised Techniques in Image Classiﬁcation | [A survey on Semi-, Self- and Unsupervised Techniques in Image Classiﬁcation ](https://arxiv.org/pdf/2002.08721.pdf) |
 
 
 ## :umbrella: THURSDAY
@@ -31,4 +31,4 @@
 
 | Title | Link | Completion |
 | ---------------- | ---- | ------------ |
-| A survey on Semi-, Self- and Unsupervised Techniques in Image Classiﬁcation | [A survey on Semi-, Self- and Unsupervised Techniques in Image Classiﬁcation ](https://arxiv.org/pdf/2002.08721.pdf) | :full_moon_with_face:
+| A survey on Semi-, Self- and Unsupervised Techniques in Image Classiﬁcation | [A survey on Semi-, Self- and Unsupervised Techniques in Image Classiﬁcation ](https://arxiv.org/pdf/2002.08721.pdf) | :full_moon_with_face: :alien:
