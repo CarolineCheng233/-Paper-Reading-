@@ -18,3 +18,4 @@ We will keep updating every week.
 | Week | Date | Content|
 | ---------------- | ---- | ------------ |
 | Week 1 | November 23, 2020 | [week 1: self-, semi- and unsupervised](week1/README.md)
+| Week 2 | November 30, 2020 | [week 2: Spatial-temporal Action Recognition](week2/README.md)
